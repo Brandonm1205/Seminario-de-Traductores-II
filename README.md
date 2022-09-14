@@ -1,2 +1,2 @@
-# 22B
+# 2022B
 Seminario de Traductores II
