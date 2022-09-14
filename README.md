@@ -1,2 +1,2 @@
-# Proyecto_Simulacion
-Proyecto de Simulación por Computadora
+# 22B
+Seminario de Traductores II
